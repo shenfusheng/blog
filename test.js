@@ -1,2 +1,2 @@
-console.log('test0')
+console.log('test0666')
 console.log('faeture')
