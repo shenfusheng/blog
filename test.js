@@ -1,5 +1,2 @@
-console.log('test111')
-console.log('faeture001')
-
-
-var a = 'test';
+console.log('test0')
+console.log('faeture')
